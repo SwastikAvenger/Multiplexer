@@ -14,7 +14,8 @@ There are different types of multiplexers available in the market. Some common e
 * 4-to-1 Mux (with 2 select lines)
 * 8-to-1 Mux (with 3 select lines)
 and many more.
-
 The following figure shows a 4-to-1 Line Multiplexer
+
 <img width="600" height="292" alt="image" src="https://github.com/user-attachments/assets/b32ec49e-8529-4caf-86d4-93d5aedb698d" />
+
 More such details about a multiplexer can be found [here](https://www.tutorialspoint.com/digital-electronics/digital-electronics-multiplexers.htm).
