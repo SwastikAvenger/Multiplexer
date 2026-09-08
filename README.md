@@ -14,8 +14,12 @@ There are different types of multiplexers available in the market. Some common e
 * 4-to-1 Mux (with 2 select lines)
 * 8-to-1 Mux (with 3 select lines)
 and many more.
-The following figure shows a 4-to-1 Line Multiplexer
+The following figure shows the elaborated diagram of the 2-to-1 Line Multiplexer and it's simulation waveform (in Vivado)
 
-<img width="600" height="292" alt="image" src="https://github.com/user-attachments/assets/b32ec49e-8529-4caf-86d4-93d5aedb698d" />
+<img width="927" height="350" alt="image" src="https://github.com/user-attachments/assets/745d0e5f-c2d6-4eaa-95cf-50f5d2e7094d" />
+<img width="1550" height="261" alt="image" src="https://github.com/user-attachments/assets/cb7ef6e9-1443-404f-ac29-dee78a48a0a4" />
 
 More such details about a multiplexer can be found [here](https://www.tutorialspoint.com/digital-electronics/digital-electronics-multiplexers.htm).
+
+## About the repository
+This repository contains the RTL design and testbench file for a 2X1 MUX and an 8X1 MUX (using the 2X1 MUX). Verilog language has been used to design this project. One can use this project as a reference and make their own design. Good ideas should have no borders. 
